@@ -1,4 +1,4 @@
-![Image of Barahebuza Lucky](images/headshot.png"Let's find out more about the tropics")
+![Image of Barahebuza Lucky](https://github.com/LuckyBarahebuza/luckybarahebuza.github.io/blob/main/images/headshot.jpg "Exploring the tropics")
 
 ## **About Me**
 
